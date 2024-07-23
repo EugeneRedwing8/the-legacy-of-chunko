@@ -1,0 +1,66 @@
+{
+    "name": "The Legacy of Chunko v2.2",
+    "description": "Guide Chunko through an all-new adventure to defeat his nemesis, killer.",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "radio": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "multiplayer": "*",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "sprite-scaling": "*",
+        "arcade-split-screen": "github:riknoll/arcade-split-screen#v0.0.3",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.0",
+        "pxt-arcade-image-transform": "github:robo-technical-group/pxt-arcade-image-transform#v1.0.9",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.51",
+        "tag": "v1.12.51",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/eb9fd884260f64c934fb51355e36f8c76272b6b4",
+        "target": "1.12.53",
+        "pxt": "8.5.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#99055B",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#C26B19",
+        "#000000"
+    ]
+}
