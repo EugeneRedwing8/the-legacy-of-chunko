@@ -1,5 +1,6 @@
 {
     "name": "The Legacy of Chunko v2.2",
+    "version": "1.0.0",
     "description": "Guide Chunko through an all-new adventure to defeat his nemesis, killer.",
     "dependencies": {
         "device": "*",
